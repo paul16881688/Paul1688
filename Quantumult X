@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 # TikTok规则
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TikTok/TikTok.list, tag=TikTok 规则, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
 # BBC规则
-https://raw.githubusercontent.com/paul16881688/ACL4SSR/master/Clash/Ruleset/BBCiPlayer.list, tag=BBC 规则, force-policy=BBC, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/paul16881688/Paul1688/main/BBCiPlayer.list, tag=BBC 规则, force-policy=BBC, update-interval=86400, opt-parser=false, enabled=true
 # GlobalMedia规则
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list, tag=GlobalMedia 规则, force-policy=GlobalMedia, update-interval=86400, opt-parser=false, enabled=true
 # Telegram规则
