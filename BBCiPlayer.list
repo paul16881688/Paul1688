@@ -1,16 +1,16 @@
 # 内容：BBCiPlayer
 # 数量：15条
-USER-AGENT,BBCiPlayer*
-HOST-SUFFIX,uk-live
-HOST-SUFFIX,aod-dash-uk-live.akamaized.net
-HOST-SUFFIX,aod-hls-uk-live.akamaized.net
-HOST-SUFFIX,vod-dash-uk-live.akamaized.net
-HOST-SUFFIX,vod-thumb-uk-live.akamaized.net
-HOST-SUFFIX,bbc.co
-HOST-SUFFIX,bbc.co.uk
-HOST-SUFFIX,bbc.com
-HOST-SUFFIX,bbc.net.uk
-HOST-SUFFIX,bbcfmt.hs.llnwd.net
-HOST-SUFFIX,bbci.co
-HOST-SUFFIX,bbci.co.uk
-HOST-SUFFIX,bidi.net.uk
+HOST,bbcfmt,BBC
+HOST,uk-live,BBC
+HOST-SUFFIX,aod-dash-uk-live.akamaized.net,BBC
+HOST-SUFFIX,aod-hls-uk-live.akamaized.net,BBC
+HOST-SUFFIX,vod-dash-uk-live.akamaized.net,BBC
+HOST-SUFFIX,vod-thumb-uk-live.akamaized.net,BBC
+HOST-SUFFIX,bbc.co,BBC
+HOST-SUFFIX,bbc.co.uk,BBC
+HOST-SUFFIX,bbc.com,BBC
+HOST-SUFFIX,bbc.net.uk,BBC
+HOST-SUFFIX,bbcfmt.hs.llnwd.net,BBC
+HOST-SUFFIX,bbci.co,BBC
+HOST-SUFFIX,bbci.co.uk,BBC
+HOST-SUFFIX,bidi.net.uk,BBC
