@@ -56,7 +56,7 @@ static=US, server-tag-regex=美|美国|美|波特兰|达拉斯|俄勒冈|凤凰�
 # 香港
 static=HK, server-tag-regex=HK|香港|港|🇭🇰️|Hongkong, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/HK02.png
 # 日本
-static= JP, server-tag-regex= 日|日本|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|JP, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/JP.png
+static=UK, server-tag-regex=UK|英|英国, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/UK.png
 # 台湾
 static=TW, server-tag-regex=台|台湾|TW, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/TW02.png
 # 新加坡
