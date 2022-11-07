@@ -84,8 +84,8 @@ static=BiliBili, HK, TW, direct, img-url=https://raw.githubusercontent.com/erdon
 # 软件&服务策略
 # > Telegram策略
 static=Telegram, US, HK, JP, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Telegram.png
-# > Clubhouse策略
-static=Clubhouse, US, HK, JP, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Clubhouse.png
+# > BBC策略
+static=BBC, US, HK, JP, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Clubhouse.png
 # > Twitter策略
 static=Twitter, US, HK, JP, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Twitter.png
 # > Speedtest策略
@@ -127,9 +127,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX//YouTube/YouTube.list, tag=YouTube 规则, force-policy=YouTube, update-interval=86400, opt-parser=false, enabled=true
 # TikTok规则
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TikTok/TikTok.list, tag=TikTok 规则, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
-# Clubhouse规则
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Clubhouse/Clubhouse.list, tag=Clubhouse 规则, force-policy=Clubhouse, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ClubhouseIP/ClubhouseIP.list, tag=Clubhouse IP规则, force-policy=Clubhouse, update-interval=86400, opt-parser=false, enabled=true
+# BBC规则
+https://raw.githubusercontent.com/paul16881688/ACL4SSR/master/Clash/Ruleset/BBCiPlayer.list, tag=BBC 规则, force-policy=BBC, update-interval=86400, opt-parser=false, enabled=true
 # GlobalMedia规则
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list, tag=GlobalMedia 规则, force-policy=GlobalMedia, update-interval=86400, opt-parser=false, enabled=true
 # Telegram规则
