@@ -54,11 +54,11 @@ url-latency-benchmark=Auto-HK, server-tag-regex=港, check-interval=600, toleran
 # 美国
 static=US, server-tag-regex=美|美国|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|US|us, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/US.png
 # 香港
-static=HK, server-tag-regex=HK|香港|港|🇭🇰️|Hongkong, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/HK02.png
+static=HK, server-tag-regex=HK|香港|港|🇭🇰️|Hong Kong, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/HK02.png
 # 英国
 static=UK, server-tag-regex=UK|英|英国, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/UK.png
 # 台湾
-static=TW, server-tag-regex=台|台湾|TW, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/TW02.png
+static=TW, server-tag-regex=台|台湾|TW|Taiwan, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/TW02.png
 # 新加坡
 static=SG, server-tag-regex=狮城|新|新加坡|🇸🇬|SG, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/SG.png
 # Global策略
