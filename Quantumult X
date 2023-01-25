@@ -85,7 +85,7 @@ static=BiliBili, HK, TW, direct, img-url=https://raw.githubusercontent.com/erdon
 # > Telegram策略
 static=Telegram, US, HK, UK, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Telegram.png
 # > BBC策略
-static=BBC, US, HK, UK, TW, SG, Final, direct, img-url=https://github.com/paul16881688/Paul1688/raw/main/BBCiPlayer.png
+static=BBC, US, HK, UK, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/UK.png
 # > Twitter策略
 static=Twitter, US, HK, UK, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Twitter.png
 # > Speedtest策略
