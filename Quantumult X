@@ -58,7 +58,7 @@ static=HK, server-tag-regex=HK|香港|港|🇭🇰️|Hong Kong, img-url=https:/
 # 英国
 static=UK, server-tag-regex=UK|英|英国, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/UK.png
 # 台湾
-static=TW, server-tag-regex=台|台湾|TW|Taiwan, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/TW02.png
+static=TW, server-tag-regex=台|台湾|TW|Taiwan, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/TW.png
 # 新加坡
 static=SG, server-tag-regex=狮城|新|新加坡|🇸🇬|SG, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/SG.png
 # Global策略
@@ -85,7 +85,7 @@ static=BiliBili, HK, TW, direct, img-url=https://raw.githubusercontent.com/erdon
 # > Telegram策略
 static=Telegram, US, HK, UK, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Telegram.png
 # > BBC策略
-static=BBC, US, HK, UK, TW, SG, Final, direct, img-url=https://pbs.twimg.com/profile_images/1450745962016686085/PFHb1vtn_400x400.jpg
+static=BBC, US, HK, UK, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/UK.png
 # > Twitter策略
 static=Twitter, US, HK, UK, TW, SG, Final, direct, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Twitter.png
 # > Speedtest策略
