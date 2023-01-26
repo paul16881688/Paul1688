@@ -58,7 +58,7 @@ static=HK, server-tag-regex=HK|香港|港|🇭🇰️|Hong Kong, img-url=https:/
 # 英国
 static=UK, server-tag-regex=UK|英|英国, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/UK.png
 # 台湾
-static=TW, server-tag-regex=台|台湾|TW|Taiwan, img-url=https://raw.githubusercontent.com/paul16881688/Paul1688/main/TW.png
+static=TW, server-tag-regex=台|台湾|TW|Taiwan, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/TW.png
 # 新加坡
 static=SG, server-tag-regex=狮城|新|新加坡|🇸🇬|SG, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Country/SG.png
 # Global策略
